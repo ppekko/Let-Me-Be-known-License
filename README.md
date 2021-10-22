@@ -3,5 +3,5 @@
 
 A license for programmers who just want some credit in return.
 
-- By PipeWarp
+- By pipe
 
